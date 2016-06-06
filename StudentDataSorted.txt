@@ -1,0 +1,8 @@
+654321,Ahmed,Hasan,21,3.70,{{Spanish,4,4.00},{English,3,3.30}}
+754321,Ahmed,Hasan,37,3.56,{{History,4,4.00},{Geography,3,3.30}}
+966848,Chowdhury,Faruq,74,3.81,{{Data Structure,3,0.00},{Computer Architecture,3,0.00}}
+123456,Farhad,SM,87,3.21,{{Biology,4,3.50},{Trig,3,0.00},{Calculus2,3,0.00}}
+567765,Jahan,Tisha,15,3.65,{{C++,4,3.70},{Java,3,4.0},{Linear Algebra,3,4.0}}
+291371,Khan,Rana,55,3.80,{{Astronomy,3,0.00},{CS103,3,0.00},{Trigonometry,3,0.00}}
+874887,Nawshad,SM,82,3.06,{{Electricity,3,0.00},{Machineries,3,0.00},{Lab Work,2,0.00}}
+223344,Paul,Hasan,78,3.81,{{Chemistry,4,3.70},{Urban Studies,3,4.0}}
